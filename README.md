@@ -1,0 +1,2 @@
+# SnapView
+Wordpress plugin
